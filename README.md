@@ -17,7 +17,7 @@ DirectoryHero.getFilePaths(directories, function(err, paths){
 ```
 
 ## API
-### .getFilePaths(directoriesArray, callback)
+### .getFilePaths(directories, callback)
 ```javascript
 var DirectoryHero = require("directory-hero")
 
